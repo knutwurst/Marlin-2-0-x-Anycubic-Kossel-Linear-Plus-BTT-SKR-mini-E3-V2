@@ -8,7 +8,7 @@ These configurations activate many of the new advanced features of the Marlin fi
  * S-Curve Acceleration
  * Unified Bed Leveling (UBL)
  * Manual Mesh Edit via LCD
- * CR10 Display
+ * 12864 CR-10 Display (without SD!)
  * 3 builtin Games (Brickout, Invaders and Snake)
  * Pause & Filament Change
 
@@ -41,7 +41,7 @@ Typically the probes for the Anycubic Delta Kossel printers come in two differen
 
     ![Version 1 Probe](images/Version1Probe.jpg)
 
-  * Version 2: Z Probe Offset of -16.8mm
+  * Version 2: Z Probe Offset of -16.2mm
 
     ![Version 2 Probe](images/Version2Probe.jpg)
 
